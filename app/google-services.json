@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121883993492",
+    "project_id": "chat-app-f2dbc",
+    "storage_bucket": "chat-app-f2dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121883993492:android:30e7640d63591ac0d8db81",
+        "android_client_info": {
+          "package_name": "br.com.tech.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121883993492-u2r0jodqn37ecg4g5hs98rikb94h7oji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJdcDCgwKRIPyD9ua5Poxo5b6xF0f-ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121883993492-u2r0jodqn37ecg4g5hs98rikb94h7oji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

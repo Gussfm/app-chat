@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="welcome_back">Bem Vindo!</string>
+    <string name="login_to_continue">Faça login para Continuar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="sing_in">Login</string>
+    <string name="create_new_account">Cadastro</string>
+    <string name="add_image">Add Imagem</string>
+    <string name="name">Nome</string>
+    <string name="confirm_password">Confirme a Senha</string>
+    <string name="sing_up">Cadastro</string>
+    <string name="creat_new_account">Já tem uma conta? Faça login!</string>
+    <string name="select_user">Contatos</string>
+    <string name="type_a_message">Mensagem</string>
+    <string name="online">Online</string>
+    <string name="j_tem_uma_conta_fa_a_login">Já tem uma conta? Faça Login</string>
+</resources>
